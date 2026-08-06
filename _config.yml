@@ -2,16 +2,22 @@
 # Source: https://github.com/draykerdk/drayker-theme
 remote_theme: draykerdk/drayker-theme
 
+# Set explicitly: GitHub Pages derives site.url without TLS when the certificate is
+# terminated upstream, which leaves absolute URLs in meta tags on http. Everything the
+# sitemap and the social cards emit has to be the canonical https address.
+url: "https://advices.drayker.org"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-optional-front-matter
+  - jekyll-sitemap
 
-title: Advices
-description: The councils that discuss and validate papers alongside the communities.
+title: "Advices"
+description: "The councils that discuss and validate papers alongside the communities."
 
-dk_kicker: Councils
-dk_subdomain: advices.drayker.org
-dk_repo: https://github.com/draykerdk/advices
+dk_kicker: "Councils"
+dk_subdomain: "advices.drayker.org"
+dk_repo: "https://github.com/draykerdk/advices"
 
 defaults:
   - scope:
