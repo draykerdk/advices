@@ -1,0 +1,32 @@
+schema_version: 1
+component:
+  id: advices
+  name: Advices
+  layer: ORGANIZATION
+  artifact_type: governance-proposal
+  problem: Define how advisory and validation groups could contribute informed review to Drayker proposals.
+  scope:
+    - Public proposal for the future role of councils.
+    - Open questions about formation, participation and recorded positions.
+  non_scope:
+    - Active councils with binding authority.
+    - A required approval gate during the founding phase.
+  dependencies:
+    - dfmp
+    - daf
+  implementation:
+    level: none
+    scope: The repository describes the council concept; formation and operating procedures remain undefined.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - Readers may mistake a proposed council system for a current institution.
+    - Undefined membership and decision rules can create false legitimacy.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/advices/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/advices
+    path: README.md
+  last_reviewed: "2026-08-10"
