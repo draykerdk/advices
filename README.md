@@ -1,5 +1,11 @@
 Councils are the advisory and validation groups of Drayker: interested collaborators take part in different councils according to their areas of study, interest and prominence.
 
+## Why this exists
+
+Drayker is a way of working where people keep creating, discovering and learning while intelligence carries the rest, and what results reaches the work that produced it. Councils are where a proposal stops being one person's idea and meets people who have read enough to argue with it.
+
+The argument in full is on the [manifesto](https://drayker.org/manifesto/); the [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
+
 ## What a council does
 
 In [DFMP](https://dfmp.drayker.org), validation runs alongside development rather than after it. Ideas are discussed with the communities and the councils, and turned into a comprehensive, detailed, widely revised paper — which then passes through the DAOs and/or the councils depending on its purpose.
@@ -14,7 +20,7 @@ For a system whose legitimacy depends on decentralized peer review, that gap mat
 
 ## Contributing
 
-Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/#org/fn).
+Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
 Related: [`dfmp`](https://dfmp.drayker.org) (the proposal and validation process) · [`daf`](https://daf.drayker.org) (the federation and its decisions)
 
