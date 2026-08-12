@@ -18,6 +18,12 @@ A council is therefore not an approval gate bolted onto the end of the process. 
 
 For a system whose legitimacy depends on decentralized peer review, that gap matters more than most. Writing the first version of "how a council works" does not require authority. It requires someone to propose it and the communities to argue it through.
 
+## How it fits the whole
+
+Councils are where a proposal stops being one person's idea and meets people who have read enough to argue with it — the peer-review layer of a system whose legitimacy depends on decentralized validation.
+
+They are woven into the method: in [DFMP](https://dfmp.drayker.org), validation runs alongside development, and ideas pass through communities and councils before reaching the DAOs. The federation ([DAF](https://daf.drayker.org)) is what those same councils feed into — validation upstream, governance downstream. Participation in councils follows study, interest and prominence, which are the same profile the [Academy](https://academy.drayker.org) and [Dk Personal](https://personal.drayker.org) carry. And because review is contribution, the same identity ([UID](https://uid.drayker.org)) that attributes delivered work attributes the argument.
+
 ## Contributing
 
 Open an issue. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
