@@ -1,4 +1,4 @@
-Councils are the advisory and validation groups of Drayker: collaborators participate in technical councils according to their areas of study, demonstrated competence and active contribution.
+Councils are the advisory and peer-review groups of Drayker: interested collaborators take part according to demonstrated competence, rigorous study, relevant experience and validated contribution.
 
 ## Why this exists
 
@@ -11,6 +11,8 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 In [DFMP](https://dfmp.drayker.org), validation runs alongside development rather than after it. Ideas are discussed with the communities and the councils, and turned into a comprehensive, detailed, widely revised paper, which then passes through the DAOs and/or the councils depending on its purpose.
 
 A council is therefore not an approval gate bolted onto the end of the process. It is where a proposal meets people who have read enough to argue with it.
+
+Councils are not permanent bodies of notables and do not form a bureaucratic caste. Their role is to produce reasoned, inspectable and contestable review under DFMP. During the transition, those reviews may inform bounded DAF decisions; durable authority remains with the member constitution and PAP as validated functions migrate into it.
 
 ## State of this documentation
 
