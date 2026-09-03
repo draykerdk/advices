@@ -4,9 +4,11 @@ component:
   name: Advices
   layer: ORGANIZATION
   artifact_type: governance-proposal
-  problem: Define how advisory and validation groups could contribute informed review to Drayker proposals.
+  problem: Define how decentralized technical peer-review groups could contribute informed, contestable review to Drayker proposals without becoming permanent authorities.
   scope:
     - Public proposal for the future role of councils.
+    - Public description of councils as decentralized technical peer review under DFMP.
+    - Public separation between reasoned review and permanent bureaucratic authority.
     - Open questions about formation, participation and recorded positions.
   non_scope:
     - Active councils with binding authority.
@@ -23,10 +25,11 @@ component:
   risks:
     - Readers may mistake a proposed council system for a current institution.
     - Undefined membership and decision rules can create false legitimacy.
+    - Competence criteria could become an unreviewable caste unless positions and procedures remain inspectable and contestable.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/advices/issues
   source_of_truth:
     repository: https://github.com/draykerdk/advices
     path: README.md
-  last_reviewed: "2026-08-10"
+  last_reviewed: "2026-09-03"
