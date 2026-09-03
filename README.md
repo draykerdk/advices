@@ -1,4 +1,4 @@
-Councils are the advisory and validation groups of Drayker: interested collaborators take part in different councils according to their areas of study, interest and prominence.
+Councils are the advisory and validation groups of Drayker: collaborators participate in technical councils according to their areas of study, demonstrated competence and active contribution.
 
 ## Why this exists
 
