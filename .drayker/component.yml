@@ -4,32 +4,31 @@ component:
   name: Advices
   layer: ORGANIZATION
   artifact_type: governance-proposal
-  problem: Define how decentralized technical peer-review groups could contribute informed, contestable review to Drayker proposals without becoming permanent authorities.
+  problem: Define how specialized technical advisory groups and the Independent Member Judicial Panel review proposals, enforce constitutional separation of powers, and protect members against capture or arbitrary revocation.
   scope:
-    - Public proposal for the future role of councils.
-    - Public description of councils as decentralized technical peer review under DFMP.
-    - Public separation between reasoned review and permanent bureaucratic authority.
-    - Open questions about formation, participation and recorded positions.
+    - Public specification for specialized Technical Advisory Councils (epistemic and architectural peer review of models, protocols, and code).
+    - Specification of the Independent Member Judicial Panel (constitutional compliance, sortition selection, distinct cryptographic signing keys, power to stay contested actions and replace operational coordinators).
+    - Formalization of the Situated Contextual Veto for directly affected members.
   non_scope:
-    - Active councils with binding authority.
-    - A required approval gate during the founding phase.
+    - Wealth-weighted or tokenized voting.
+    - Opaque operational councils without public deliberation records.
+    - Automatic vetoes over routine operational workflows during the founding phase.
   dependencies:
     - dfmp
     - daf
   implementation:
-    level: none
-    scope: The repository describes the council concept; formation and operating procedures remain undefined.
+    level: prototype
+    scope: The repository describes the dual structure of technical councils and the independent judicial panel, along with protection against capture. Operational tooling and sortition protocols remain in development.
     evidence:
       - type: document
         ref: README.md
   risks:
-    - Readers may mistake a proposed council system for a current institution.
-    - Undefined membership and decision rules can create false legitimacy.
-    - Competence criteria could become an unreviewable caste unless positions and procedures remain inspectable and contestable.
+    - Readers may mistake a proposed council structure for fully automated on-chain execution.
+    - Failure to maintain distinct signing keys and sortition rotation could lead to operator capture.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/advices/issues
   source_of_truth:
     repository: https://github.com/draykerdk/advices
     path: README.md
-  last_reviewed: "2026-09-03"
+  last_reviewed: "2026-09-08"
