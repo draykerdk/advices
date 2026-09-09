@@ -17,7 +17,7 @@ component:
     - dfmp
     - daf
   implementation:
-    level: prototype
+    level: none
     scope: The repository describes the dual structure of technical councils and the independent judicial panel, along with protection against capture. Operational tooling and sortition protocols remain in development.
     evidence:
       - type: document
