@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Advices"
-description: "The councils that discuss and validate papers alongside the communities."
+description: "Technical deliberation and independent human recourse. Advices develops two complementary institutions: councils that examine proposals and an independent member panel that reviews contested decisions and protects constitutional rights."
 
 dk_kicker: "Councils"
 dk_subdomain: "advices.drayker.org"
