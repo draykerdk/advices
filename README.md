@@ -26,7 +26,7 @@ In [DFMP](https://dfmp.drayker.org), validation runs alongside development rathe
 
 ## The Independent Member Judicial Panel
 
-As formulated in *Do animal à superinteligência* (chapter 51), the contestation of a decision cannot end inside the intelligence system that made it — nobody can be the judge of their own cause:
+The contestation of a decision cannot end inside the intelligence system that made it — nobody can be the judge of their own cause:
 - **Selection by lot**: members are drawn periodically by lot from the membership, as in juries and ancient magistracies chosen by lot, without conflict of interest with the matter and for a fixed term.
 - **Independence from algorithmic revocation**: human panel mandates cannot be terminated by automated agent scoring.
 - **Independent technical audit**: the panel commands its own technical keys and verification resources, without requiring permission from system administrators under review.
