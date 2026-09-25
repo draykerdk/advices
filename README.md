@@ -26,12 +26,13 @@ In [DFMP](https://dfmp.drayker.org), validation runs alongside development rathe
 
 ## The Independent Member Judicial Panel
 
-As formulated in the canonical book *Do animal à superinteligência* (Chapter 48), high-impact automated systems require real checks and balances:
-- **Selection by lot**: members are selected by sortition among qualified contributors without conflicts of interest.
+The contestation of a decision cannot end inside the intelligence system that made it — nobody can be the judge of their own cause:
+- **Selection by lot**: members are drawn periodically by lot from the membership, as in juries and ancient magistracies chosen by lot, without conflict of interest with the matter and for a fixed term.
 - **Independence from algorithmic revocation**: human panel mandates cannot be terminated by automated agent scoring.
 - **Independent technical audit**: the panel commands its own technical keys and verification resources, without requiring permission from system administrators under review.
 - **Enforcement and operator substitution**: the panel possesses authority to suspend contested automated directives, preserve evidence trails in Dknowledge, and designate substitute operators if a primary administrator refuses compliance.
-- **Situated Contextual Veto**: individuals preserve a direct right of refusal over decisions that directly impact their physical living conditions, health, and immediate personal sphere.
+- **The veto chain**: vetoes with their grounds, mandate revocations, ratification signatures, triage outcomes and the panel's own orders are signed, hash-linked entries in the [veto chain](https://uid.drayker.org) specified in UID and replicated over Dk Network. The panel reads it with its own keys, hears contested triages of a veto's grounds, and appends its orders to it.
+- **Situated Contextual Veto**: individuals preserve a direct right of refusal over decisions that directly impact their physical living conditions, health, and immediate personal sphere. The veto is informed and justified: it carries its grounds, even when its author stays anonymous.
 
 ## State of this documentation
 
@@ -51,4 +52,4 @@ Related: [`dfmp`](https://dfmp.drayker.org) (the proposal and validation process
 
 ---
 
-Drayker is a civilizational, non-profit organization. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker is a non-profit organization, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
