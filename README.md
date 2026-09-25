@@ -31,6 +31,7 @@ As formulated in *Do animal à superinteligência* (chapter 51), the contestatio
 - **Independence from algorithmic revocation**: human panel mandates cannot be terminated by automated agent scoring.
 - **Independent technical audit**: the panel commands its own technical keys and verification resources, without requiring permission from system administrators under review.
 - **Enforcement and operator substitution**: the panel possesses authority to suspend contested automated directives, preserve evidence trails in Dknowledge, and designate substitute operators if a primary administrator refuses compliance.
+- **The veto chain**: vetoes, mandate revocations, ratification signatures and the panel's own orders are signed, hash-linked entries in the [veto chain](https://uid.drayker.org) specified in UID and replicated over Dk Network. The panel reads it with its own keys and appends its orders to it.
 - **Situated Contextual Veto**: individuals preserve a direct right of refusal over decisions that directly impact their physical living conditions, health, and immediate personal sphere.
 
 ## State of this documentation
@@ -51,4 +52,4 @@ Related: [`dfmp`](https://dfmp.drayker.org) (the proposal and validation process
 
 ---
 
-Drayker is a civilizational, non-profit organization. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker is a non-profit organization, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
