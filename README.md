@@ -1,54 +1,60 @@
-# Advices and Judicial Governance
+# Advices — member councils
 
-> Technical deliberation and independent human recourse.
+> A question examined by the people who know it best and the people it affects most.
 
-Advices develops two complementary institutions: councils that examine proposals and an independent member panel that reviews contested decisions and protects constitutional rights.
+Advices develops the member councils of Drayker. A council is formed for one question, not kept as a standing body with fixed categories or seats. When a decision, a veto, a reputation dispute or an algorithm needs to be examined, members convene a council, and whoever convenes it takes part in it.
 
-The proposed design separates peer review from judicial recourse, with conflict-of-interest controls, member selection and independent means to suspend or remedy a contested action.
+Dknowledge crosses the question with each member's links to it, what each one knows, has lived and has built, and calls the best-informed people on the matter and the people most affected by it. The council debates with Dk in the middle of it. Together they look for contradictions, find gaps and test interpretations. The conclusions are recorded and become the basis for revising decisions and vetoes.
 
-The distinction connects informed decisions with enforceable accountability. The selection rules, procedures and operational safeguards still need to be developed and tested.
+It is an adaptive system: the same mechanism resolves small and large questions, with whoever knows most and whoever feels the effect most. A council does not replace the members' constitutional process. It gives a contestation the examination that the contested agent cannot make on its own: whoever decided cannot be the only one to examine their own decision.
 
 ## A practical example
 
-A technical council could assess a network proposal while a separate panel examines a member complaint about how an operator applied it. This is an illustration of the proposed design.
+A team loses access to a shared instrument because the system recorded its project as abandoned. The measurements had stopped arriving because the protocol had been moved, by agreement, to another city, and the record of that agreement never entered Dknowledge. The team contests the classification and convenes a council, of which it is part. Dknowledge calls the people who know the protocol, the people who worked in both cities and the people who keep the research records. With Dk, the council finds the gap, the conclusion is recorded, and the effect of the classification is suspended while the correction is made. This is an illustration of the proposed design.
 
 ## Why this exists
 
-True separation of powers requires distinguishing two fundamentally different functions:
-1. **Technical Advisory Councils**: where a proposal stops being one person's idea and meets qualified peers who review method, models, code, and viability.
-2. **Independent Member Judicial Panel**: an independent human appeal instance capable of reviewing contested algorithmic allocations, halting harmful actions, and protecting individual sovereignty.
+Complex organizations tend to drift into oligarchies of specialists. In a supersystem where an intelligence takes decisions of its own, a contestation cannot end inside the system that decided. Councils bring the question to the people who have knowledge of it and a stake in it, with Dk helping them examine it rather than judging alone.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/). The [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
-## What a technical council does
+## How a council is formed
 
-In [DFMP](https://dfmp.drayker.org), validation runs alongside development rather than after it. Ideas are discussed with the communities and technical councils, turned into comprehensive, detailed papers, and reviewed for empirical rigor under the principle: **kind to people, relentless with ideas**. A technical council does not gatekeep persons; it tests hypotheses, models, and dependencies.
+- **Convened for one question.** Members convene it, and whoever convenes takes part.
+- **Composed from links, not categories.** Dknowledge relates the question to what each member knows, has lived and has built, and calls the best informed and the most affected. There are no standing seats and no fixed domains.
+- **With Dk in the middle.** Dk brings the records, the alternatives and what it knows and does not know. Members bring the context the data did not contain.
+- **Also convened by Dk.** When Dk Global's certainty about a decision is low, it convenes a council itself, with the members most connected to the matter and those most affected by it.
 
-## The Independent Member Judicial Panel
+## What keeps the examination independent
 
-The contestation of a decision cannot end inside the intelligence system that made it — nobody can be the judge of their own cause:
-- **Selection by lot**: members are drawn periodically by lot from the membership, as in juries and ancient magistracies chosen by lot, without conflict of interest with the matter and for a fixed term.
-- **Independence from algorithmic revocation**: human panel mandates cannot be terminated by automated agent scoring.
-- **Independent technical audit**: the panel commands its own technical keys and verification resources, without requiring permission from system administrators under review.
-- **Enforcement and operator substitution**: the panel possesses authority to suspend contested automated directives, preserve evidence trails in Dknowledge, and designate substitute operators if a primary administrator refuses compliance.
-- **The veto chain**: vetoes with their grounds, mandate revocations, ratification signatures, triage outcomes and the panel's own orders are signed, hash-linked entries in the [veto chain](https://uid.drayker.org) specified in UID and replicated over Dk Network. The panel reads it with its own keys, hears contested triages of a veto's grounds, and appends its orders to it.
-- **Situated Contextual Veto**: individuals preserve a direct right of refusal over decisions that directly impact their physical living conditions, health, and immediate personal sphere. The veto is informed and justified: it carries its grounds, even when its author stays anonymous.
+- **Access to preserved records**, authorized for the question, so the council can read what actually happened and not only the explanation it receives.
+- **Technical support it can consult without permission from the party under examination.**
+- **A path from conclusion to operation.** An authorized operator suspends the rule applied to the case, records the change and preserves the functions that are not in dispute. If the usual operator refuses or is unavailable, a substitute path exists, with access and competence limited to what is needed. Who recommends, who examines and who executes can be different people or instances.
+- **Verification of compliance.** A revision ends with evidence that it was carried out, not only with a new answer from the agent. The council follows whether the same information affected other decisions and takes each of them to its own examination.
+
+## The veto chain
+
+Vetoes with their grounds, ratification signatures, triage outcomes and council conclusions are signed, hash-linked entries in the [veto chain](https://uid.drayker.org) specified in UID and replicated over Dk Network. A council reads the chain, hears contested triages of a veto's grounds and appends its conclusion to it.
+
+The **situated contextual veto** stays with each member: anyone can refuse what directly affects their life and context. The veto carries its real grounds, even when its author stays anonymous, and vetoes are weighed by what their grounds reveal, not counted.
+
+## Councils in technical review
+
+In [DFMP](https://dfmp.drayker.org), validation runs alongside development rather than after it. Ideas are discussed with the communities and with councils formed for the question, turned into comprehensive papers and reviewed for empirical rigor under the principle: **kind to people, relentless with ideas**. A council does not gatekeep persons; it tests hypotheses, models and dependencies.
 
 ## State of this documentation
 
-Technical review currently runs through standard public pull requests and issues on GitHub. The formal charter for Technical Councils and the constitutional protocol for the Independent Judicial Panel are specifications currently under development.
+Technical review currently runs through public issues and pull requests on GitHub. How councils are convened, composed and recorded still has to be specified with worked cases, and tested, before any function depends on it. The criteria Dknowledge uses to compose a council have to stay examinable, so that no one can pack a council.
 
 ## How it fits the whole
 
-Councils provide the peer-review layer of a system whose legitimacy depends on decentralized validation; the proposed Judicial Panel provides a human review path with independent means to challenge, suspend and remedy contested decisions.
-
-During the founding phase, technical review informs [DFMP](https://dfmp.drayker.org) and feeds bounded decisions into [DAF](https://daf.drayker.org). Long-term constitutional authority belongs to the human member constitution and the environments into which validated functions migrate. Review remains contestable and does not become a vote merely because it is attributable.
+Councils are the examination layer of a system whose legitimacy depends on decisions staying open to the people they reach. They work with [Dk](https://dk.drayker.org) and [Dknowledge](https://dknowledge.drayker.org), record their conclusions in the [veto chain](https://uid.drayker.org), inform [DFMP](https://dfmp.drayker.org) and, during the founding phase, feed bounded decisions into [DAF](https://daf.drayker.org). Long-term constitutional authority belongs to the members' constitution. A council's conclusion is weighed by its grounds; it is not a vote.
 
 ## Contributing
 
-Open an issue to help draft the judicial charter, appeal protocols, or technical council specifications. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
+Open an issue to help specify how councils are convened, composed and recorded, or to write a worked case. Issues small enough for one person to finish carry the `open-function` label and appear on the board at [drayker.org](https://drayker.org/fn/).
 
-Related: [`dfmp`](https://dfmp.drayker.org) (the proposal and validation process) · [`daf`](https://daf.drayker.org) (the federation and its decisions)
+Related: [`dfmp`](https://dfmp.drayker.org) (the proposal and validation process) · [`daf`](https://daf.drayker.org) (the federation and its decisions) · [`uid`](https://uid.drayker.org) (identity and the veto chain)
 
 ---
 
