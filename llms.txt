@@ -1,8 +1,8 @@
 # Advices
 
-> Advices develops two complementary institutions: councils that examine proposals and an independent member panel that reviews contested decisions and protects constitutional rights.
+> Advices develops the member councils of Drayker: a council is formed for each question, composed by Dknowledge from the best informed and the most affected, and also convened by Dk when its certainty is low.
 
-Advices is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Advices is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
