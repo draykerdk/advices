@@ -22,7 +22,7 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 
 - **Convened for one question.** Members convene it, and whoever convenes takes part.
 - **Composed from links, not categories.** Dknowledge relates the question to what each member knows, has lived and has built, and calls the best informed and the most affected. There are no standing seats and no fixed domains.
-- **A small group drawn by lot in important decisions.** In important decisions, and according to the type of convocation, a small group is drawn by lot from the members who signalled they want to take part or left random participation switched on. Everyone in the council, members and Dk alike, proves what they assert: the examination is a joint investigation, not people against Dk.
+- **A small group drawn by lot in important decisions.** Only in important decisions, and according to the type of convocation, a small group also enters by lot, drawn from the members who signalled they want to take part or left random participation switched on. Everyone in the council, members and Dk alike, proves what they assert and justifies each position well: the examination is a joint investigation, not people against Dk.
 - **With Dk in the middle.** Dk brings the records, the alternatives and what it knows and does not know. Members bring the context the data did not contain.
 - **Also convened by Dk.** When Dk Global's certainty about a decision is low, it convenes a council itself, with the members most connected to the matter and those most affected by it.
 
@@ -31,14 +31,14 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 - **Access to preserved records**, authorized for the question, so the council can read what actually happened and not only the explanation it receives.
 - **Technical support it can consult without permission from the party under examination.**
 - **A path from conclusion to operation.** An authorized operator suspends the rule applied to the case, records the change and preserves the functions that are not in dispute. If the usual operator refuses or is unavailable, a substitute path exists, with access and competence limited to what is needed. Who recommends, who examines and who executes can be different people or instances. Whoever administers the infrastructure answers for the execution, within competences distributed beforehand, separate from the council and from the contested party.
-- **Intervention tested before delegation.** The capacity to interrupt and correct is tested before any critical function is delegated.
+- **Intervention tested before delegation.** The capacity to intervene is built and tested before any critical function is delegated.
 - **Verification of compliance.** A revision ends with evidence that it was carried out, not only with a new answer from the agent. The council follows whether the same information affected other decisions and takes each of them to its own examination.
 
 ## How much a conclusion weighs
 
 A conclusion is weighed by its grounds. How much it weighs depends on what is under examination: a veto, a request, the global planning of priorities and projects, a local question, or a change to the constitution or to the kernel. Each case has its own configuration, optimized for it.
 
-When members ask for a rule on a choice of values, one that alters no mechanism of the system, they convene a council and a vote. Dk can help in the debate, but on a matter of this nature the members' values weigh most. See [constitutional alignment](https://dknowledge.drayker.org/papers/main-projects/dk/constitutional-alignment); the criterion that separates a choice of values from a change of mechanism, and how that vote runs, are still to be specified.
+A value choice is one in which nothing of great importance in the system is modified and no mechanism is altered. When members ask for a rule on a value choice, they convene a council for the debate and, separately, a vote. Dk Global can help in the debate, but on a matter of this nature the members' values weigh most. See [constitutional alignment](https://dknowledge.drayker.org/papers/main-projects/dk/constitutional-alignment); how that vote runs is still to be specified.
 
 ## The veto chain
 
