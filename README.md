@@ -4,7 +4,7 @@
 
 Advices develops the member councils of Drayker. A council is formed for one question, not kept as a standing body with fixed categories or seats. When a decision, a veto, a reputation dispute or an algorithm needs to be examined, members convene a council, and whoever convenes it takes part in it.
 
-Dknowledge crosses the question with each member's links to it, what each one knows, has lived and has built, and calls the best-informed people on the matter and the people most affected by it. The council debates with Dk in the middle of it. Together they look for contradictions, find gaps and test interpretations. The conclusions are recorded and become the basis for revising decisions and vetoes.
+Dknowledge crosses the question with each member's links to it, what each one knows, has lived and has built, and calls the best-informed people on the matter and the people most affected by it — the context clusters of that question. The council debates with Dk in the middle of it. Together they look for contradictions, find gaps and test interpretations. The conclusions are recorded and become the basis for revising decisions and vetoes.
 
 It is an adaptive system: the same mechanism resolves small and large questions, with whoever knows most and whoever feels the effect most. A council does not replace the members' constitutional process. It gives a contestation the examination that the contested agent cannot make on its own: whoever decided cannot be the only one to examine their own decision.
 
@@ -22,7 +22,7 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 
 - **Convened for one question.** Members convene it, and whoever convenes takes part.
 - **Composed from links, not categories.** Dknowledge relates the question to what each member knows, has lived and has built, and calls the best informed and the most affected. There are no standing seats and no fixed domains.
-- **A small group drawn by lot in important decisions.** Only in important decisions, and according to the type of convocation, a small group also enters by lot, drawn from the members who signalled they want to take part or left random participation switched on. Everyone in the council, members and Dk alike, proves what they assert and justifies each position well: the examination is a joint investigation, not people against Dk.
+- **A small group drawn by lot in important decisions.** Only in important decisions, and according to the type of convocation, a small group also enters by lot, drawn from the active members who signalled they want to take part or left random participation switched on. Everyone in the council, members and Dk alike, proves what they assert and justifies each position well: the examination is a joint investigation, not people against Dk.
 - **With Dk in the middle.** Dk brings the records, the alternatives and what it knows and does not know. Members bring the context the data did not contain.
 - **Also convened by Dk.** When Dk Global's certainty about a decision is low, it convenes a council itself, with the members most connected to the matter and those most affected by it.
 
@@ -43,6 +43,8 @@ A value choice is one in which nothing of great importance in the system is modi
 ## The veto chain
 
 Vetoes with their grounds, ratification signatures, triage outcomes and council conclusions are signed, hash-linked entries in the [veto chain](https://uid.drayker.org) specified in UID and replicated over Dk Network. A council reads the chain, hears contested triages of a veto's grounds and appends its conclusion to it.
+
+Each member holds an **absolute veto**: power over their own life and their own Dk Personal (what stays private, what Dk represents, refusing a task, leaving). It holds only within the vetoer's own sphere, and what also affects others goes through the contextual veto.
 
 The **situated contextual veto** stays with each member: anyone can refuse what directly affects their life and context. The veto carries its real grounds, even when its author stays anonymous, and vetoes are weighed by what their grounds reveal, not counted.
 
@@ -66,4 +68,4 @@ Related: [`dfmp`](https://dfmp.drayker.org) (the proposal and validation process
 
 ---
 
-Drayker is non-profit, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Drayker has no owner, no shareholders and no profit distribution, and its work is primarily voluntary. Content licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
