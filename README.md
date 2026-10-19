@@ -2,7 +2,7 @@
 
 > A question examined by the people who know it best and the people it affects most.
 
-Advices develops the member councils of Drayker. A council is formed for one question, not kept as a standing body with fixed categories or seats. When a decision, a veto, a reputation dispute or an algorithm needs to be examined, members convene a council, and whoever convenes it takes part in it.
+Advices develops the member councils of Drayker. A council is formed for one question, not kept as a standing body with fixed categories or seats. When a decision, a veto, a reputation dispute, an algorithm or the revocation of a member level, recorded with its reasons, needs to be examined, members convene a council, and whoever convenes it takes part in it.
 
 Dknowledge crosses the question with each member's links to it, what each one knows, has lived and has built, and calls the best-informed people on the matter and the people most affected by it — the context clusters of that question. The council debates with Dk in the middle of it. Together they look for contradictions, find gaps and test interpretations. The conclusions are recorded and become the basis for revising decisions and vetoes.
 
@@ -30,6 +30,7 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 
 - **Access to preserved records**, authorized for the question, so the council can read what actually happened and not only the explanation it receives.
 - **Technical support it can consult without permission from the party under examination.**
+- **Composition the contested party does not control.** The agent whose decision is under examination does not control, alone, these conditions or the choice of who composes the council. Dknowledge's search follows recorded criteria that whoever convened can check.
 - **A path from conclusion to operation.** An authorized operator suspends the rule applied to the case, records the change and preserves the functions that are not in dispute. If the usual operator refuses or is unavailable, a substitute path exists, with access and competence limited to what is needed. Who recommends, who examines and who executes can be different people or instances. Whoever administers the infrastructure answers for the execution, within competences distributed beforehand, separate from the council and from the contested party.
 - **Intervention tested before delegation.** The capacity to intervene is built and tested before any critical function is delegated.
 - **Verification of compliance.** A revision ends with evidence that it was carried out, not only with a new answer from the agent. The council follows whether the same information affected other decisions and takes each of them to its own examination.
@@ -46,7 +47,7 @@ Vetoes with their grounds, ratification signatures, triage outcomes and council 
 
 Each member holds an **absolute veto**: power over their own life and their own Dk Personal (what stays private, what Dk represents, refusing a task, leaving). It holds only within the vetoer's own sphere, and what also affects others goes through the contextual veto.
 
-The **situated contextual veto** stays with each member: anyone can refuse what directly affects their life and context. The veto carries its real grounds, even when its author stays anonymous, and vetoes are weighed by what their grounds reveal, not counted.
+The **justified contextual veto** over decisions that directly affect the member's life and context stays with each member: anyone can refuse what directly affects them. The veto carries its real grounds, even when its author stays anonymous, and vetoes are weighed by what their grounds reveal, not counted. A justified veto can be made without the vetoer's name appearing in the decision, and the constitution protects against retaliation: disagreeing takes no courage, it is part of the common work.
 
 ## Councils in technical review
 
@@ -58,7 +59,7 @@ Technical review currently runs through public issues and pull requests on GitHu
 
 ## How it fits the whole
 
-Councils are the examination layer of a system whose legitimacy depends on decisions staying open to the people they reach. They work with [Dk](https://dk.drayker.org) and [Dknowledge](https://dknowledge.drayker.org), record their conclusions in the [veto chain](https://uid.drayker.org), inform [DFMP](https://dfmp.drayker.org) and, during the founding phase, feed bounded decisions into [DAF](https://daf.drayker.org). Long-term constitutional authority belongs to the members' constitution. A council's conclusion is weighed by its grounds; it is not a vote.
+Councils are the examination layer of a system whose legitimacy depends on decisions staying open to the people they reach. They work with [Dk](https://dk.drayker.org) and [Dknowledge](https://dknowledge.drayker.org), record their conclusions in the [veto chain](https://uid.drayker.org), inform [DFMP](https://dfmp.drayker.org) and, once specified for the federation, examine contested triages and decisions of [DAF](https://daf.drayker.org); in Phase 0 they have no venue there yet. Long-term constitutional authority belongs to the members' constitution. A council's conclusion is weighed by its grounds; it is not a vote.
 
 ## Contributing
 
