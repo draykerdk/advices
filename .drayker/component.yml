@@ -9,11 +9,11 @@ component:
     - Member councils convened by members for one question, with the conveners taking part.
     - Composition by Dknowledge from members' links to the question (the best informed and the most affected), with Dk taking part in the deliberation.
     - Means of independence (authorized access to preserved records, independent technical support, operator substitution and verification of compliance).
-    - Formalization of the Situated Contextual Veto for directly affected members.
+    - Formalization of the justified contextual veto over decisions that directly affect the member's life and context.
   non_scope:
     - Wealth-weighted or tokenized decisions.
     - Standing councils with fixed categories or seats.
-    - Opaque operational councils without public deliberation records.
+    - Councils whose composition criteria and conclusions cannot be examined; records open according to permission level, and sealed details stay sealed.
     - Automatic vetoes over routine operational workflows during the founding phase.
   dependencies:
     - dfmp
@@ -25,7 +25,7 @@ component:
       - type: document
         ref: README.md
   risks:
-    - Readers may mistake a proposed council structure for fully automated on-chain execution.
+    - Readers may mistake a proposed council structure for automatic execution by the veto chain.
     - If the criteria Dknowledge uses to compose a council are opaque, a council could be packed; the criteria must stay examinable.
   contributions:
     availability: open
@@ -33,4 +33,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/advices
     path: README.md
-  last_reviewed: "2026-10-05"
+  last_reviewed: "2026-10-19"
