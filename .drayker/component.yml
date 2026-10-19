@@ -14,7 +14,6 @@ component:
     - Wealth-weighted or tokenized decisions.
     - Standing councils with fixed categories or seats.
     - Councils whose composition criteria and conclusions cannot be examined; records open according to permission level, and sealed details stay sealed.
-    - Automatic vetoes over routine operational workflows during the founding phase.
   dependencies:
     - dfmp
     - daf
