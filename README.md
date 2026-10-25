@@ -51,7 +51,7 @@ The **justified contextual veto** stays with each member: the justified refusal 
 
 ## Councils in technical review
 
-In [DFMP](https://dfmp.drayker.org), validation runs alongside development rather than after it. Ideas are discussed with the communities and with councils formed for the question, turned into comprehensive papers and reviewed for empirical rigor under the principle: **kind to people, relentless with ideas**. A council does not gatekeep persons; it tests hypotheses, models and dependencies.
+In [DFMP](https://dfmp.drayker.org), validation runs alongside development rather than after it. Ideas are discussed with the communities and with councils formed for the question, turned into comprehensive papers and reviewed for empirical rigor under the principle: **gentle with people and ruthless with ideas**. A council does not gatekeep persons; it tests hypotheses, models and dependencies.
 
 ## State of this documentation
 
