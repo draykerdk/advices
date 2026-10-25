@@ -2,11 +2,11 @@
 
 > A question examined by the people who know it best and the people it affects most.
 
-Advices develops the member councils of Drayker. A council is formed for one question, not kept as a standing body with fixed categories or seats. When a decision, a veto, a reputation dispute, an algorithm or the revocation of a member level, recorded with its reasons, needs to be examined, members convene a council, and whoever convenes it takes part in it.
+Advices develops the member councils of Drayker. Member councils are formed for each question, convened by members or by Dk when its certainty is low; a council is not kept as a standing body and does not follow fixed categories or seats. When a decision, a veto, a reputation dispute, an algorithm or the revocation of a member level, recorded with its reasons, needs to be examined, members convene a council, and whoever convenes it is part of it.
 
-Dknowledge crosses the question with each member's links to it, what each one knows, has lived and has built, and calls the best-informed people on the matter and the people most affected by it — the context clusters of that question. The council debates with Dk in the middle of it. Together they look for contradictions, find gaps and test interpretations. The conclusions are recorded and become the basis for revising decisions and vetoes.
+Dknowledge cross-references the question with each member's connections, what each one knows, has lived and has built, and calls the best-informed minds on the subject and the people most affected by it — the context clusters of that question. The council members debate with Dk and, together with it, look for contradictions, find gaps and test interpretations. The conclusions are recorded and serve as the basis for reviewing decisions and vetoes.
 
-It is an adaptive system: the same mechanism resolves small and large questions, with whoever knows most and whoever feels the effect most. A council does not replace the members' constitutional process. It gives a contestation the examination that the contested agent cannot make on its own: whoever decided cannot be the only one to examine their own decision.
+It is an adaptive system, one that settles small and large questions with those who know the most and those who feel their effect the most. A council does not replace the members' constitutional process. It gives the challenge an examination that the challenged agent cannot carry out alone: whoever decided cannot be the only one to examine their own decision.
 
 ## A practical example
 
@@ -14,7 +14,7 @@ A team loses access to a shared instrument because the system recorded its proje
 
 ## Why this exists
 
-Complex organizations tend to drift into oligarchies of specialists. In a supersystem where an intelligence takes decisions of its own, a contestation cannot end inside the system that decided. Councils bring the question to the people who have knowledge of it and a stake in it, with Dk helping them examine it rather than judging alone.
+Complex structures tend to degenerate into oligarchies of specialists. In a supersystem where an intelligence takes decisions of its own, a challenge to a decision cannot end inside the same intelligence system that made it. Councils bring the question to the people who have knowledge of it and a stake in it, with Dk helping them examine it rather than judging alone.
 
 The argument in full is on the [manifesto](https://drayker.org/manifesto/). The [economy page](https://drayker.org/economy/) states plainly what contributing here earns and what it does not.
 
@@ -22,7 +22,7 @@ The argument in full is on the [manifesto](https://drayker.org/manifesto/). The 
 
 - **Convened for one question.** Members convene it, and whoever convenes takes part.
 - **Composed from links, not categories.** Dknowledge relates the question to what each member knows, has lived and has built, and calls the best informed and the most affected. There are no standing seats and no fixed domains.
-- **A small group drawn by lot in important decisions.** Only in important decisions, and according to the type of convocation, a small group also enters by lot, drawn from the active members who signalled they want to take part or left random participation switched on. Everyone in the council, members and Dk alike, proves what they assert and justifies each position well: the examination is a joint investigation, not people against Dk.
+- **A small group drawn by lot in important decisions.** Only in important decisions, and according to the type of convocation, a small group also enters by lot, drawn from the active members who signalled they want to take part or left random participation switched on. Everyone in the council, members and Dk alike, proves what they assert and justifies each position well: the examination is a joint investigation to reach the best decision, not people against Dk.
 - **With Dk in the middle.** Dk brings the records, the alternatives and what it knows and does not know. Members bring the context the data did not contain.
 - **Also convened by Dk.** When the global Dk's certainty about a decision is low, it convenes a council itself, with the members most connected to the matter and those most affected by it.
 
@@ -43,11 +43,11 @@ A value choice is one in which nothing of great importance in the system is modi
 
 ## The veto chain
 
-Vetoes with their grounds, ratification signatures, triage outcomes and council conclusions are signed, hash-linked entries in the [veto chain](https://uid.drayker.org) specified in UID and replicated over Dk Network. A council reads the chain, hears contested triages of a veto's grounds and appends its conclusion to it.
+The [veto chain](https://uid.drayker.org) is the record of vetoes, with their grounds, and of the results of each triage, in which each veto is signed in such a way that the one who vetoes can remain anonymous, and each record points to the contested decision and carries the proof of the previous record. Replicated across the network's nodes and checked by them, it is kept by no single node, and erasing or altering a record would break the links that follow. Ratification signatures and council conclusions enter it too, as signed, hash-linked entries; the chain is specified in UID and replicated over Dk Network. A council reads the chain, hears contested triages of a veto's grounds and appends its conclusion to it.
 
-Each member holds an **absolute veto**: power over their own life and their own personal Dk (what stays private, what Dk represents, refusing a task, leaving). It holds only within the vetoer's own sphere, and what also affects others goes through the contextual veto.
+Each member holds an **absolute veto**: power over their own life and their own personal Dk. What stays private, what Dk represents, refusing a task and leaving depend only on the member. It holds within the sphere of the one who vetoes, and what also bears on others goes through the contextual veto.
 
-The **justified contextual veto** over decisions that directly affect the member's life and context stays with each member: anyone can refuse what directly affects them. The veto carries its real grounds, even when its author stays anonymous, and vetoes are weighed by what their grounds reveal, not counted. A justified veto can be made without the vetoer's name appearing in the decision, and the constitution protects against retaliation: disagreeing takes no courage, it is part of the common work.
+The **justified contextual veto** stays with each member: the justified refusal of an action that bears directly on the member's life and context, so anyone can refuse what directly affects them. It comes with the real grounds of the one who vetoes, even when that person remains anonymous, and it is weighed by what grounds it, not counted as a vote. A well-justified veto forces the decision to be revised, and with architecture 1.0 fully running it becomes the system's switch. A justified veto can be made without the vetoer's name appearing in the decision, and the constitution protects against retaliation: disagreeing takes no courage, it is part of the common work.
 
 ## Councils in technical review
 
